@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALA6gKXDoGkCrChkNeyuP0gAAAAACAAAAAAAQZgAAAAEAACAAAAC/JGSIkwKojW7iAas2prxfFbRhV2SjHEUXA3V5xbiDZAAAAAAOgAAAAAIAACAAAADE238aVFNAP7vaSnPwdKYmVe6wVoLIjgCnvdjjC/1VuYAAAABJp23TiegabWHJS394XAu18xcQ7UefAkjdksKzg4ZUl23/iP0tj9xqXt4yOKrng/Y8tLftbZHBWxmWTJ3gjXwNu/tRMG3uT6E5f6Kfv1T/6N69MD7b/OnJZDP70E/ZglgtXpi6+DCglUP6YgJwXtUXSLA1D72kBIIGp/bMnEEutUAAAAChEGMpag1HC6mcQ7cnah6yS1+PM+ZBdtsyFDxRDkABTmYdtJL/RUdoLDCV+UGaYut70HbPG99nwjmXY2EU2WfH</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:ko2rkyxckd.database.windows.net,1433%3bInitial Catalog=blockchainplagiarism%3bUser ID=NCPAdmin%40ko2rkyxckd%3bPassword=fgDS67:54%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
